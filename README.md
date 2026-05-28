@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="assets/Logo.png" alt="HumanNOVA logo" width="20%" style="margin-bottom: 0;"/>
-<p style="margin-top: 0;"><strong><font size="5">Photorealistic, Universal and Rapid 3D Human Avatar Modeling from a Single Image</font></strong></p>
+# HumanNOVA: Photorealistic, Universal and Rapid 3D Human Avatar Modeling from a Single Image
+
 
 <h4>✨ CVPR 2026 Highlight</h4>
 
@@ -36,6 +36,12 @@ Once trained, it is universal without the need for test-time fine-tuning or adap
 Qualitative results show that HumanNOVA produces more precise photorealistic reconstructions compared to the state-of-the-art SiTH method, as shown at the bottom.
 
 This repository currently focuses on inference and includes the local code and checkpoints required by the pipeline.
+
+
+## 📰 News
+
+- **May 2026**: Release inference code. 🤗
+- **Feb 2026**: Our paper is accepted by CVPR 2026 Highlight! 🎉
 
 
 <h2 id="environment-setup">⚙️ Environment Setup</h2>
