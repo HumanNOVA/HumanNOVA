@@ -6,8 +6,8 @@
 <h4>✨ CVPR 2026 Highlight</h4>
 
 <p>
-  Hezhen Hu<sup>1</sup> &middot; Wangbo Zhao<sup>2</sup> &middot; Lanqing Guo<sup>1</sup> &middot; Hanwen Jiang<sup>1</sup> &middot; Jonathan C. Liu<sup>1</sup><br>
-  Zhiwen Fan<sup>3</sup> &middot; Kai Wang<sup>2</sup> &middot; Zhangyang Wang<sup>1</sup> &middot; Georgios Pavlakos<sup>1</sup>
+  <a href="https://alexhu.top/">Hezhen Hu</a><sup>1</sup> &middot; <a href="https://wangbo-zhao.github.io/">Wangbo Zhao</a><sup>2</sup> &middot; <a href="https://guolanqing.github.io/">Lanqing Guo</a><sup>1</sup> &middot; <a href="https://hwjiang1510.github.io/">Hanwen Jiang</a><sup>1</sup> &middot; <a href="https://jcliu979.github.io/">Jonathan C. Liu</a><sup>1</sup><br>
+  <a href="https://zhiwenfan.github.io/">Zhiwen Fan</a><sup>3</sup> &middot; <a href="https://kaiwang960112.github.io/">Kai Wang</a><sup>2</sup> &middot; <a href="https://www.ece.utexas.edu/people/faculty/atlas-wang">Zhangyang Wang</a><sup>1</sup> &middot; <a href="https://geopavlakos.github.io/">Georgios Pavlakos</a><sup>1</sup>
 </p>
 
 <p>
