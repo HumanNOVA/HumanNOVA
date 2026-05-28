@@ -1,0 +1,1 @@
+from .pointformer import PointTransformerV3Object
