@@ -20,6 +20,9 @@
   <a href="https://HumanNOVA.github.io/">
     <img src="https://img.shields.io/badge/Project-Page-2563eb?style=for-the-badge" alt="Project Page"/>
   </a>
+  <a href="https://drive.google.com/file/d/1mNGvEARfk7IGIjXTnVQEXzLCj2r59ZfL/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Colab-Notebook-f9ab00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab Notebook"/>
+  </a>
 </p>
 
 <img src="assets/Teaser.png" alt="HumanNOVA teaser image" width="100%"/>
